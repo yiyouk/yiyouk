@@ -1,6 +1,7 @@
 ###  Yi YouKyoung 👋
 
 2019.03 ~ 2022.08 🎓 Soongsil University, Industrial and Information Systems Engineering
+</br>
 2022.07 ~ 2023.06 🐣 Samsung Sw Academy For Youth 8
 
 <!--
