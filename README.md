@@ -1,7 +1,7 @@
-### Hi there YouKyoung Git 👋
+###  Yi YouKyoung 👋
 
-#### 2019.03 ~ 2022.08 🎓 Soongsil University, Industrial and Information Systems Engineering
-#### 2022.07 ~ 2023.06 🐣 Samsung Sw Academy For Youth 8
+2019.03 ~ 2022.08 🎓 Soongsil University, Industrial and Information Systems Engineering
+2022.07 ~ 2023.06 🐣 Samsung Sw Academy For Youth 8
 
 <!--
 **yiyouk/yiyouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
