@@ -1,7 +1,7 @@
 ### Hi there YiYouKyoung 👋
  
-## 2019.03 ~ 2022.08 🎓 Soongsil University, Industrial and Information Systems Engineering
-## 2022.07 ~ 2023.06 🐣 Samsung 
+#### 2019.03 ~ 2022.08 🎓 Soongsil University, Industrial and Information Systems Engineering
+#### 2022.07 ~ 2023.06 🐣 Samsung 
 
 <!--
 **yiyouk/yiyouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
